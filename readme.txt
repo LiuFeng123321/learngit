@@ -3,4 +3,4 @@ Git is free software Tom.
 Git has a mutable index called stage.
 Git tracks changes.
 Git hello world.
-git this.
+git this that.
